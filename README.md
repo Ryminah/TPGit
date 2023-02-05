@@ -1,8 +1,8 @@
 # TPGit
 
-## Project name : Web helper
+## Projet name : Support en ligne
 ## Description 
-Automated chat helper with mail of support
+Chat automatisée avec support en ligne
 
 ## Membres 
 
