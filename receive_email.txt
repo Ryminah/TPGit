@@ -1,0 +1,1 @@
+Fonction chargée de la réception des emails.
